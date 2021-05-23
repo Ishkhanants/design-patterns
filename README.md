@@ -4,7 +4,7 @@ Relevant Articles:
 
 CREATIONAL
 
-Singletons in Java
+[Singletons in Java](https://www.baeldung.com/java-singleton)
 
 Introduction to Creational Design Patterns
 
