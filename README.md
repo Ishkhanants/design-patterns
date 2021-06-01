@@ -57,3 +57,7 @@
 [The Mediator Pattern in Java](https://www.baeldung.com/java-mediator-pattern)
 
 [Memento Design Pattern in Java](https://www.baeldung.com/java-memento-design-pattern)
+
+
+#### ADDITIONALLY
+[Design Patterns by Refactoring Guru](https://refactoring.guru/design-patterns)
