@@ -1,4 +1,4 @@
-package behavioral.template.method.application;
+package behavioral.template.method;
 
 import behavioral.template.method.model.Computer;
 import behavioral.template.method.model.ComputerBuilder;

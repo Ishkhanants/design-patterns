@@ -12,11 +12,11 @@ public class Main {
         System.out.println(isAuthorized);
 
         AuthenticationProcessor authProcessorChain2 = getChainOfAuthProcessor();
-        boolean isAuthorized2 = authProcessorChain.isAuthorized(new UsernamePasswordProvider());
+        boolean isAuthorized2 = authProcessorChain2.isAuthorized(new UsernamePasswordProvider());
         System.out.println(isAuthorized2);
 
         AuthenticationProcessor authProcessorChain3 = getChainOfAuthProcessor();
-        boolean isAuthorized3 = authProcessorChain.isAuthorized(new SamlAuthenticationProvider());
+        boolean isAuthorized3 = authProcessorChain3.isAuthorized(new SamlAuthenticationProvider());
         System.out.println(!isAuthorized3);
     }
 }
